@@ -7,10 +7,12 @@ create-react-app <nome> --template=typescript (mac)
 
   ## Produção
   yarn add react-router-dom
+  yarn add styled-components
 
   ## Desenvolvimento
   # além dos instalados nos tutoriais de editorconfig, eslint e prettier
   yarn add @types/react-router-dom -D
+  yarn add @types/styled-components -D
 
 # Configurações
 

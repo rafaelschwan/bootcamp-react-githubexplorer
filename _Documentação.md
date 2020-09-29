@@ -8,6 +8,9 @@ create-react-app <nome> --template=typescript (mac)
   ## Produção
   yarn add react-router-dom
   yarn add styled-components
+  yarn add polished
+  yarn add react-icons
+  yarn add axios
 
   ## Desenvolvimento
   # além dos instalados nos tutoriais de editorconfig, eslint e prettier
